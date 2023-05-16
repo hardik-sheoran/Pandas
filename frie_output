@@ -1,0 +1,36 @@
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Unnamed: 0</th>
+      <th>Name</th>
+      <th>Marks</th>
+      <th>City</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0</td>
+      <td>Hardik</td>
+      <td>30</td>
+      <td>Meerut</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Tanisha</td>
+      <td>45</td>
+      <td>Kalka</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Rashmika</td>
+      <td>60</td>
+      <td>Panchkula</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Tripathi</td>
+      <td>34</td>
+      <td>Lucknow</td>
+    </tr>
+  </tbody>
+</table>
